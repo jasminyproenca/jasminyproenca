@@ -1,6 +1,5 @@
 <h1> 💻 Oiii, aqui é a Jasminy!!! ☕ 
-<a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/4a09dbbc987af25d11906bcfc4b78816.gif" width="130" height="130" border="0" alt="https://picasion.com/" />
-</a>
+
 </h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasminyproenca&show_icons=true&theme=onedark)
@@ -13,6 +12,6 @@
 ### 👩‍🚀 Sobre mim:
 
 * 🎓 Bacharel em Sistemas de Informação
-* 🛠️ Trabalho como QA na BRQ
-* 🐞 Apaixonada por Tests e Qualidade
-* 💻 Aluna do Programa de Testes e Qualidade de Software do Julio de Lima
+* 🛠️ Analista de Testes de Software / QA
+* 🐞 Apaixonada por Testes e Qualidade de Software
+* 🐈 Mãe do Joãzinho, um gatinho muito esperto e curioso
