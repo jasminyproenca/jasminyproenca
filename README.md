@@ -11,7 +11,8 @@
 
 ### 👩‍🚀 Sobre mim:
 
-* 🎓 Bacharel em Sistemas de Informação
+* 🎓 Formada em Sistemas de Informação
+* 🎓 Estudando de Pós Gradução em Engenharia de Qualidade e Testes de Software
 * 🛠️ Analista de Testes de Software / QA
 * 🐞 Apaixonada por Testes e Qualidade de Software
 * 🐈 Mãe do Joãzinho, um gatinho muito esperto e curioso
