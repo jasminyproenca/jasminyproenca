@@ -1,4 +1,4 @@
-<h1> 💻 Oiii, aqui é a Jasminy!!! ☕ 
+<h1> 💻 Oi, aqui é a Jasminy!!! ☕ 
 
 </h1>
 
