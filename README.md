@@ -11,8 +11,9 @@
 
 ### 👩‍🚀 Sobre mim:
 
-* 🎓 Formada em Sistemas de Informação
-* 🎓 Estudante de Pós Gradução em Engenharia de Qualidade e Testes de Software pela PUC
 * 🛠️ Analista de Testes de Software / QA
+* 📚 Estudante de Pós Gradução em Automação de Testes - curso do Júlio de Lima pela Faculdade Facint
+* 🎓 Formada em Sistemas de Informação
+* 🎓 Pós-graduada em Engenharia de Qualidade e Testes de Software pela PUC
 * 🐞 Apaixonada por Testes e Qualidade de Software
 * 🐈 Mãe do Joãzinho, um gatinho muito esperto e curioso
