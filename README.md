@@ -63,7 +63,6 @@ Aqui estão alguns dos projetos práticos que desenvolvi para consolidar meus co
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jasminyproenca&show_icons=true&theme=nord&include_all_commits=true" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminyproenca&layout=compact&theme=nord" alt="Linguagens mais utilizadas" height="150" />
+  <img src="https://github-readme-stats.shion.dev/api?username=jasminyproenca&show_icons=true&theme=nord&include_all_commits=true" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jasminyproenca&layout=compact&theme=nord" alt="Linguagens mais utilizadas" height="150" />
 </p>
-
